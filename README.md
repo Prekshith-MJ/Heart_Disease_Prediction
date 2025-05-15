@@ -237,8 +237,7 @@ print(classification_report(y_val, y_pred))
 * **Validation ROC AUC:** \~0.93
 * **Tuned Logistic Regression:** 100.00% accuracy on validation
 
-<details>
-Initial Model Performance
+# Initial Model Performance
 
 | Model               | Accuracy |
 | ------------------- | -------- |
@@ -249,8 +248,6 @@ Initial Model Performance
 | XGBoost             | 85.00%   |
 | LightGBM            | 82.00%   |
 
-
-</details>
 
 the best performing Logistic Regression achiving 92.50% is optimized to increse acc by finding best hyperparameters through grid search
 
