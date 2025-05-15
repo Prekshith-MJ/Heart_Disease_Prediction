@@ -1,6 +1,6 @@
 # Heart Disease Prediction 🫀💓
 
-This project demonstrates a complete machine learning workflow to **predict the presence of heart disease** using clinical data. It covers everything from data loading and exploratory analysis to model training, evaluation, and future improvements. This README is designed for GitHub, giving readers and potential collaborators a clear, step-by-step overview of the process.
+This project demonstrates a complete machine learning workflow to **predict the presence of heart disease** using clinical data. It covers everything from data loading and exploratory analysis to model training, evaluation, and future improvements. This is designed for giving readers and potential collaborators a clear, step-by-step overview of the process.
 
 ---
 
