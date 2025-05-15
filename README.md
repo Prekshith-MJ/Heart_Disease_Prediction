@@ -1,6 +1,6 @@
 # Heart Disease Prediction 🫀💓
 
-This project demonstrates a complete machine learning workflow to **predict the presence of heart disease** using clinical data. It covers data loading, exploratory analysis, feature engineering, model training (including advanced models), evaluation, hyperparameter tuning, and future improvements. Designed for to showcase your end-to-end approach.
+This project demonstrates a complete machine learning workflow to **predict the presence of heart disease** using clinical data. It covers data loading, exploratory analysis, feature engineering, model training (including advanced models), evaluation, hyperparameter tuning, and future improvements. Designed to showcase your end-to-end approach.
 
 ---
 
@@ -238,7 +238,7 @@ print(classification_report(y_val, y_pred))
 * **Tuned Logistic Regression:** 100.00% accuracy on validation
 
 <details>
-<summary>Initial Model Performance</summary>
+Initial Model Performance
 
 | Model               | Accuracy |
 | ------------------- | -------- |
